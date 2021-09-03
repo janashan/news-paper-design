@@ -1,3 +1,3 @@
 ## news-paper-design
 
-deploye url : https://serene-tesla-c86968.netlify.app
+deploye url : https://competent-sammet-37b77c.netlify.app
