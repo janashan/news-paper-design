@@ -35,3 +35,26 @@
     flex-direction: row;
 }
 
+.image-750-350{
+    background: url(https://blogs.lshtm.ac.uk/alumni/files/2016/10/Resized-Kilifi-photo-730x350.jpg);
+    width: 730px;
+    min-height: 350px;
+}
+
+.image-350-1{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThvpoXp3gMliHUURPUNo-KECsy4d2EI23sXQ&usqp=CAU);
+    width: 350px;
+    min-height: 250px;
+}
+
+.image-350-2{
+    background: url(https://siteofforex.com/wp-content/uploads/2021/06/sensex-nifty-live-today-2021-05-26-350x250.jpg);
+    width: 350px;
+    min-height: 250px;
+}
+
+.image-350-3{
+    background: url(https://wiredworkers.io/wp-content/uploads/2020/05/Reshoring-Netherlands-350x250.png);
+    width: 350px;
+    min-height: 250px;
+}
